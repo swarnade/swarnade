@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnade" alt="swarnade" /></a> </p>
 
-- ⌛ I’m currently buliding [Campus Collab](https://campuscollab.swarnadeepsahapoddar.in)
+- ⌛ I’m currently buliding [SIT CampusCollab](https://sitcampuscollab.in)
 
 - 🔭 I’m currently working on [Trip Bluprint](https://tripblueprint.swarnadeepsahapoddar.in)
 
